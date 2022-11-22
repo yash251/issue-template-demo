@@ -1,1 +1,1 @@
-# issue-template-demo
+# issue-template-demo (for Hacktoberfest)
